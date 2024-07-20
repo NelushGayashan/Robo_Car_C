@@ -24,7 +24,7 @@ The Robot Control System is designed to control a robotic vehicle using various 
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/robot-control-system.git
+    git clone https://github.com/NelushGayashan/Robo_Car_C.git
     ```
 
 2. **Set Up the Environment**
